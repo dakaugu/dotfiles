@@ -26,6 +26,11 @@ alias push="git push origin"
 alias stash="git stash"
 alias branch"co master; co -b "
 
+# Directory nav
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
 # Grep alias
 alias grep="grep -rn --color=auto"
 
