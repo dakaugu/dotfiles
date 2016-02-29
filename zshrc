@@ -24,7 +24,7 @@ alias gfr="git fetch upstream; git rebase upstream/master"
 alias br="git branch"
 alias push="git push origin"
 alias stash="git stash"
-alias branch"co master; co -b "
+alias branch="co master; co -b "
 
 # Directory nav
 alias ..="cd .."
