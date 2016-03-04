@@ -11,7 +11,6 @@ alias psrc="cd /home/drishi/projects/prbot/src/pr_bot"
 alias dsrc="cd /home/drishi/projects/hearsay-deploy-utils/src/deploy_utils"
 alias bsrc="cd /home/drishi/projects/boxbot/src/boxbot"
 alias prbot_box="ssh-role prbot"
-alias prbot_dbshell="ssh-role prbot; mysql --user=prbot --password=crowdcontext --host=pnw-dev-prbot.cq8zuscratld.us-west-2.rds.amazonaws.com prbot"
 alias run_chef="sudo chef-client"
 alias prtestdb="mysql -h pnw-dev-mysql-c1-aurora-cluster.cluster-cq8zuscratld.us-west-2.rds.amazonaws.com -u prbot -p"
 
